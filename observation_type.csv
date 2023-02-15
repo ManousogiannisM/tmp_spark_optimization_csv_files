@@ -1,0 +1,205 @@
+PRCP, Precipitation (tenths of mm)
+SNOW, Snowfall (mm)
+SNWD, Snow depth (mm)
+TMAX, Maximum temperature (tenths of degrees C)
+TMIN, Minimum temperature (tenths of degrees C)
+ACMC, Average cloudiness midnight to midnight from 30-second ceilometer data (percent)
+ACMH, Average cloudiness midnight to midnight from manual observations (percent)
+ACSC, Average cloudiness sunrise to sunset from 30-second ceilometer data (percent)
+ACSH, Average cloudiness sunrise to sunset from manual observations (percent)
+AWDR, Average daily wind direction (degrees)
+AWND, Average daily wind speed (tenths of meters per second)
+DAEV, Number of days included in the multiday evaporation total (MDEV)
+DAPR, Number of days included in the multiday precipiation total (MDPR)
+DASF, Number of days included in the multiday snowfall total (MDSF)
+DATN, Number of days included in the multiday minimum temperature (MDTN)
+DATX, Number of days included in the multiday maximum temperature (MDTX)
+DAWM, Number of days included in the multiday wind movement (MDWM)
+DWPR, Number of days with non-zero precipitation included in multiday precipitation total (MDPR)
+EVAP, Evaporation of water from evaporation pan (tenths of mm)
+FMTM, Time of fastest mile or fastest 1-minute wind (hours and minutes, i.e., HHMM)
+FRGB, Base of frozen ground layer (cm)
+FRGT, Top of frozen ground layer (cm)
+FRTH, Thickness of frozen ground layer (cm)
+GAHT, Difference between river and gauge height (cm)
+MDEV, Multiday evaporation total (tenths of mm; use with DAEV)
+MDPR, Multiday precipitation total (tenths of mm; use with DAPR and DWPR, if available)
+MDSF, Multiday snowfall total
+MDTN, Multiday minimum temperature (tenths of degrees C; use with DATN)
+MDTX, Multiday maximum temperature (tenths of degress C; use with DATX)
+MDWM, Multiday wind movement (km)
+MNPN, Daily minimum temperature of water in an evaporation pan (tenths of degrees C)
+MXPN, Daily maximum temperature of water in an evaporation pan (tenths of degrees C)
+PGTM, Peak gust time (hours and minutes, i.e., HHMM)
+PSUN, Daily percent of possible sunshine (percent)
+SN01, Minimum soil temperature (tenths of degrees C) code for ground: unknown cover and code for soil depth: 5 cm
+SN11, Minimum soil temperature (tenths of degrees C) code for ground: unknown cover and code for soil depth: 5 cm
+SN21, Minimum soil temperature (tenths of degrees C) code for ground: unknown cover and code for soil depth: 5 cm
+SN31, Minimum soil temperature (tenths of degrees C) code for ground: unknown cover and code for soil depth: 5 cm
+SN41, Minimum soil temperature (tenths of degrees C) code for ground: unknown cover and code for soil depth: 5 cm
+SN51, Minimum soil temperature (tenths of degrees C) code for ground: unknown cover and code for soil depth: 5 cm
+SN61, Minimum soil temperature (tenths of degrees C) code for ground: unknown cover and code for soil depth: 5 cm
+SN71, Minimum soil temperature (tenths of degrees C) code for ground: unknown cover and code for soil depth: 5 cm
+SN81, Minimum soil temperature (tenths of degrees C) code for ground: unknown cover and code for soil depth: 5 cm
+SN02, Minimum soil temperature (tenths of degrees C) code for ground: unknown cover and code for soil depth: 10 cm
+SN12, Minimum soil temperature (tenths of degrees C) code for ground: unknown cover and code for soil depth: 10 cm
+SN22, Minimum soil temperature (tenths of degrees C) code for ground: unknown cover and code for soil depth: 10 cm
+SN32, Minimum soil temperature (tenths of degrees C) code for ground: unknown cover and code for soil depth: 10 cm
+SN42, Minimum soil temperature (tenths of degrees C) code for ground: unknown cover and code for soil depth: 10 cm
+SN52, Minimum soil temperature (tenths of degrees C) code for ground: unknown cover and code for soil depth: 10 cm
+SN62, Minimum soil temperature (tenths of degrees C) code for ground: unknown cover and code for soil depth: 10 cm
+SN72, Minimum soil temperature (tenths of degrees C) code for ground: unknown cover and code for soil depth: 10 cm
+SN82, Minimum soil temperature (tenths of degrees C) code for ground: unknown cover and code for soil depth: 10 cm
+SN03, Minimum soil temperature (tenths of degrees C) code for ground: unknown cover and code for soil depth: 20 cm
+SN13, Minimum soil temperature (tenths of degrees C) code for ground: unknown cover and code for soil depth: 20 cm
+SN23, Minimum soil temperature (tenths of degrees C) code for ground: unknown cover and code for soil depth: 20 cm
+SN33, Minimum soil temperature (tenths of degrees C) code for ground: unknown cover and code for soil depth: 20 cm
+SN43, Minimum soil temperature (tenths of degrees C) code for ground: unknown cover and code for soil depth: 20 cm
+SN53, Minimum soil temperature (tenths of degrees C) code for ground: unknown cover and code for soil depth: 20 cm
+SN63, Minimum soil temperature (tenths of degrees C) code for ground: unknown cover and code for soil depth: 20 cm
+SN73, Minimum soil temperature (tenths of degrees C) code for ground: unknown cover and code for soil depth: 20 cm
+SN83, Minimum soil temperature (tenths of degrees C) code for ground: unknown cover and code for soil depth: 20 cm
+SN04, Minimum soil temperature (tenths of degrees C) code for ground: unknown cover and code for soil depth: 50 cm
+SN14, Minimum soil temperature (tenths of degrees C) code for ground: unknown cover and code for soil depth: 50 cm
+SN24, Minimum soil temperature (tenths of degrees C) code for ground: unknown cover and code for soil depth: 50 cm
+SN34, Minimum soil temperature (tenths of degrees C) code for ground: unknown cover and code for soil depth: 50 cm
+SN44, Minimum soil temperature (tenths of degrees C) code for ground: unknown cover and code for soil depth: 50 cm
+SN54, Minimum soil temperature (tenths of degrees C) code for ground: unknown cover and code for soil depth: 50 cm
+SN64, Minimum soil temperature (tenths of degrees C) code for ground: unknown cover and code for soil depth: 50 cm
+SN74, Minimum soil temperature (tenths of degrees C) code for ground: unknown cover and code for soil depth: 50 cm
+SN84, Minimum soil temperature (tenths of degrees C) code for ground: unknown cover and code for soil depth: 50 cm
+SN05, Minimum soil temperature (tenths of degrees C) code for ground: unknown cover and code for soil depth: 100 cm
+SN15, Minimum soil temperature (tenths of degrees C) code for ground: unknown cover and code for soil depth: 100 cm
+SN25, Minimum soil temperature (tenths of degrees C) code for ground: unknown cover and code for soil depth: 100 cm
+SN35, Minimum soil temperature (tenths of degrees C) code for ground: unknown cover and code for soil depth: 100 cm
+SN45, Minimum soil temperature (tenths of degrees C) code for ground: unknown cover and code for soil depth: 100 cm
+SN55, Minimum soil temperature (tenths of degrees C) code for ground: unknown cover and code for soil depth: 100 cm
+SN65, Minimum soil temperature (tenths of degrees C) code for ground: unknown cover and code for soil depth: 100 cm
+SN75, Minimum soil temperature (tenths of degrees C) code for ground: unknown cover and code for soil depth: 100 cm
+SN85, Minimum soil temperature (tenths of degrees C) code for ground: unknown cover and code for soil depth: 100 cm
+SN06, Minimum soil temperature (tenths of degrees C) code for ground: unknown cover and code for soil depth: 150 cm
+SN16, Minimum soil temperature (tenths of degrees C) code for ground: unknown cover and code for soil depth: 150 cm
+SN26, Minimum soil temperature (tenths of degrees C) code for ground: unknown cover and code for soil depth: 150 cm
+SN36, Minimum soil temperature (tenths of degrees C) code for ground: unknown cover and code for soil depth: 150 cm
+SN46, Minimum soil temperature (tenths of degrees C) code for ground: unknown cover and code for soil depth: 150 cm
+SN56, Minimum soil temperature (tenths of degrees C) code for ground: unknown cover and code for soil depth: 150 cm
+SN66, Minimum soil temperature (tenths of degrees C) code for ground: unknown cover and code for soil depth: 150 cm
+SN76, Minimum soil temperature (tenths of degrees C) code for ground: unknown cover and code for soil depth: 150 cm
+SN86, Minimum soil temperature (tenths of degrees C) code for ground: unknown cover and code for soil depth: 150 cm
+SN07, Minimum soil temperature (tenths of degrees C) code for ground: unknown cover and code for soil depth: 180 cm
+SN17, Minimum soil temperature (tenths of degrees C) code for ground: unknown cover and code for soil depth: 180 cm
+SN27, Minimum soil temperature (tenths of degrees C) code for ground: unknown cover and code for soil depth: 180 cm
+SN37, Minimum soil temperature (tenths of degrees C) code for ground: unknown cover and code for soil depth: 180 cm
+SN47, Minimum soil temperature (tenths of degrees C) code for ground: unknown cover and code for soil depth: 180 cm
+SN57, Minimum soil temperature (tenths of degrees C) code for ground: unknown cover and code for soil depth: 180 cm
+SN67, Minimum soil temperature (tenths of degrees C) code for ground: unknown cover and code for soil depth: 180 cm
+SN77, Minimum soil temperature (tenths of degrees C) code for ground: unknown cover and code for soil depth: 180 cm
+SN87, Minimum soil temperature (tenths of degrees C) code for ground: unknown cover and code for soil depth: 180 cm
+SX01, Maximum soil temperature (tenths of degrees C) code for ground: unknown cover and code for soil depth: 5 cm
+SX11, Maximum soil temperature (tenths of degrees C) code for ground: unknown cover and code for soil depth: 5 cm
+SX21, Maximum soil temperature (tenths of degrees C) code for ground: unknown cover and code for soil depth: 5 cm
+SX31, Maximum soil temperature (tenths of degrees C) code for ground: unknown cover and code for soil depth: 5 cm
+SX41, Maximum soil temperature (tenths of degrees C) code for ground: unknown cover and code for soil depth: 5 cm
+SX51, Maximum soil temperature (tenths of degrees C) code for ground: unknown cover and code for soil depth: 5 cm
+SX61, Maximum soil temperature (tenths of degrees C) code for ground: unknown cover and code for soil depth: 5 cm
+SX71, Maximum soil temperature (tenths of degrees C) code for ground: unknown cover and code for soil depth: 5 cm
+SX81, Maximum soil temperature (tenths of degrees C) code for ground: unknown cover and code for soil depth: 5 cm
+SX02, Maximum soil temperature (tenths of degrees C) code for ground: unknown cover and code for soil depth: 10 cm
+SX12, Maximum soil temperature (tenths of degrees C) code for ground: unknown cover and code for soil depth: 10 cm
+SX22, Maximum soil temperature (tenths of degrees C) code for ground: unknown cover and code for soil depth: 10 cm
+SX32, Maximum soil temperature (tenths of degrees C) code for ground: unknown cover and code for soil depth: 10 cm
+SX42, Maximum soil temperature (tenths of degrees C) code for ground: unknown cover and code for soil depth: 10 cm
+SX52, Maximum soil temperature (tenths of degrees C) code for ground: unknown cover and code for soil depth: 10 cm
+SX62, Maximum soil temperature (tenths of degrees C) code for ground: unknown cover and code for soil depth: 10 cm
+SX72, Maximum soil temperature (tenths of degrees C) code for ground: unknown cover and code for soil depth: 10 cm
+SX82, Maximum soil temperature (tenths of degrees C) code for ground: unknown cover and code for soil depth: 10 cm
+SX03, Maximum soil temperature (tenths of degrees C) code for ground: unknown cover and code for soil depth: 20 cm
+SX13, Maximum soil temperature (tenths of degrees C) code for ground: unknown cover and code for soil depth: 20 cm
+SX23, Maximum soil temperature (tenths of degrees C) code for ground: unknown cover and code for soil depth: 20 cm
+SX33, Maximum soil temperature (tenths of degrees C) code for ground: unknown cover and code for soil depth: 20 cm
+SX43, Maximum soil temperature (tenths of degrees C) code for ground: unknown cover and code for soil depth: 20 cm
+SX53, Maximum soil temperature (tenths of degrees C) code for ground: unknown cover and code for soil depth: 20 cm
+SX63, Maximum soil temperature (tenths of degrees C) code for ground: unknown cover and code for soil depth: 20 cm
+SX73, Maximum soil temperature (tenths of degrees C) code for ground: unknown cover and code for soil depth: 20 cm
+SX83, Maximum soil temperature (tenths of degrees C) code for ground: unknown cover and code for soil depth: 20 cm
+SX04, Maximum soil temperature (tenths of degrees C) code for ground: unknown cover and code for soil depth: 50 cm
+SX14, Maximum soil temperature (tenths of degrees C) code for ground: unknown cover and code for soil depth: 50 cm
+SX24, Maximum soil temperature (tenths of degrees C) code for ground: unknown cover and code for soil depth: 50 cm
+SX34, Maximum soil temperature (tenths of degrees C) code for ground: unknown cover and code for soil depth: 50 cm
+SX44, Maximum soil temperature (tenths of degrees C) code for ground: unknown cover and code for soil depth: 50 cm
+SX54, Maximum soil temperature (tenths of degrees C) code for ground: unknown cover and code for soil depth: 50 cm
+SX64, Maximum soil temperature (tenths of degrees C) code for ground: unknown cover and code for soil depth: 50 cm
+SX74, Maximum soil temperature (tenths of degrees C) code for ground: unknown cover and code for soil depth: 50 cm
+SX84, Maximum soil temperature (tenths of degrees C) code for ground: unknown cover and code for soil depth: 50 cm
+SX05, Maximum soil temperature (tenths of degrees C) code for ground: unknown cover and code for soil depth: 100 cm
+SX15, Maximum soil temperature (tenths of degrees C) code for ground: unknown cover and code for soil depth: 100 cm
+SX25, Maximum soil temperature (tenths of degrees C) code for ground: unknown cover and code for soil depth: 100 cm
+SX35, Maximum soil temperature (tenths of degrees C) code for ground: unknown cover and code for soil depth: 100 cm
+SX45, Maximum soil temperature (tenths of degrees C) code for ground: unknown cover and code for soil depth: 100 cm
+SX55, Maximum soil temperature (tenths of degrees C) code for ground: unknown cover and code for soil depth: 100 cm
+SX65, Maximum soil temperature (tenths of degrees C) code for ground: unknown cover and code for soil depth: 100 cm
+SX75, Maximum soil temperature (tenths of degrees C) code for ground: unknown cover and code for soil depth: 100 cm
+SX85, Maximum soil temperature (tenths of degrees C) code for ground: unknown cover and code for soil depth: 100 cm
+SX06, Maximum soil temperature (tenths of degrees C) code for ground: unknown cover and code for soil depth: 150 cm
+SX16, Maximum soil temperature (tenths of degrees C) code for ground: unknown cover and code for soil depth: 150 cm
+SX26, Maximum soil temperature (tenths of degrees C) code for ground: unknown cover and code for soil depth: 150 cm
+SX36, Maximum soil temperature (tenths of degrees C) code for ground: unknown cover and code for soil depth: 150 cm
+SX46, Maximum soil temperature (tenths of degrees C) code for ground: unknown cover and code for soil depth: 150 cm
+SX56, Maximum soil temperature (tenths of degrees C) code for ground: unknown cover and code for soil depth: 150 cm
+SX66, Maximum soil temperature (tenths of degrees C) code for ground: unknown cover and code for soil depth: 150 cm
+SX76, Maximum soil temperature (tenths of degrees C) code for ground: unknown cover and code for soil depth: 150 cm
+SX86, Maximum soil temperature (tenths of degrees C) code for ground: unknown cover and code for soil depth: 150 cm
+SX07, Maximum soil temperature (tenths of degrees C) code for ground: unknown cover and code for soil depth: 180 cm
+SX17, Maximum soil temperature (tenths of degrees C) code for ground: unknown cover and code for soil depth: 180 cm
+SX27, Maximum soil temperature (tenths of degrees C) code for ground: unknown cover and code for soil depth: 180 cm
+SX37, Maximum soil temperature (tenths of degrees C) code for ground: unknown cover and code for soil depth: 180 cm
+SX47, Maximum soil temperature (tenths of degrees C) code for ground: unknown cover and code for soil depth: 180 cm
+SX57, Maximum soil temperature (tenths of degrees C) code for ground: unknown cover and code for soil depth: 180 cm
+SX67, Maximum soil temperature (tenths of degrees C) code for ground: unknown cover and code for soil depth: 180 cm
+SX77, Maximum soil temperature (tenths of degrees C) code for ground: unknown cover and code for soil depth: 180 cm
+SX87, Maximum soil temperature (tenths of degrees C) code for ground: unknown cover and code for soil depth: 180 cm
+TAVG, Average temperature (tenths of degrees C) [Note that TAVG from source 'S' corresponds to an average for the period ending at 2400 UTC rather than local midnight]
+THIC, Thickness of ice on water (tenths of mm)
+TOBS, Temperature at the time of observation (tenths of degrees C)
+TSUN, Daily total sunshine (minutes)
+WDF1, Direction of fastest 1-minute wind (degrees)
+WDF2, Direction of fastest 2-minute wind (degrees)
+WDF5, Direction of fastest 5-second wind (degrees)
+WDFG, Direction of peak wind gust (degrees)
+WDFI, Direction of highest instantaneous wind (degrees)
+WDFM, Fastest mile wind direction (degrees)
+WDMV, 24-hour wind movement (km)
+WESD, Water equivalent of snow on the ground (tenths of mm)
+WESF, Water equivalent of snowfall (tenths of mm)
+WSF1, Fastest 1-minute wind speed (tenths of meters per second)
+WSF2, Fastest 2-minute wind speed (tenths of meters per second)
+WSF5, Fastest 5-second wind speed (tenths of meters per second)
+WSFG, Peak gust wind speed (tenths of meters per second)
+WSFI, Highest instantaneous wind speed (tenths of meters per second)
+WSFM, Fastest mile wind speed (tenths of meters per second)
+WT01, Weather Type Fog, ice fog, or freezing fog (may include heavy fog)
+WT02, Weather Type Heavy fog or heaving freezing fog (not always distinquished from fog)
+WT03, Weather Type Thunder
+WT04, Weather Type Ice pellets, sleet, snow pellets, or small hail
+WT05, Weather Type Hail (may include small hail)
+WT06, Weather Type Glaze or rime
+WT07, Weather Type Dust, volcanic ash, blowing dust, blowing sand, or blowing obstruction
+WT08, Weather Type Smoke or haze
+WT09, Weather Type Blowing or drifting snow
+WT10, Weather Type Tornado, waterspout, or funnel cloud
+WT11, Weather Type High or damaging winds
+WT12, Weather Type Blowing spray
+WT13, Weather Type Mist
+WT14, Weather Type Drizzle
+WT15, Weather Type Freezing drizzle
+WT16, Weather Type Rain (may include freezing rain, drizzle, and freezing drizzle)
+WT17, Weather Type Freezing rain
+WT18, Weather Type Snow, snow pellets, snow grains, or ice crystals
+WT19, Weather Type Unknown source of precipitation
+WT21, Weather Type Ground fog
+WT21, Weather Type Ice fog or freezing fog
+WV01, Weather in the Vicinity Fog, ice fog, or freezing fog (may include heavy fog)
+WV03, Weather in the Vicinity Thunder
+WV07, Weather in the Vicinity Ash, dust, sand, or other blowing obstruction
+WV18, Weather in the Vicinity Snow or ice crystals
+WV20, Weather in the Vicinity Rain or snow shower

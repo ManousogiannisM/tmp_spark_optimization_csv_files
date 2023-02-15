@@ -1,0 +1,56 @@
+MFLAG1, measurement flag for the first day of the month, null, no measurement information applicable
+MFLAG1, measurement flag for the first day of the month, B, precipitation total formed from two 12-hour totals
+MFLAG1, measurement flag for the first day of the month, D, precipitation total formed from four six-hour totals
+MFLAG1, measurement flag for the first day of the month, H, represents highest or lowest hourly temperature (TMAX or TMIN) or the average of hourly values (TAVG)
+MFLAG1, measurement flag for the first day of the month, K, converted from knots
+MFLAG1, measurement flag for the first day of the month, L, temperature appears to be lagged with respect to reported hour of observation
+MFLAG1, measurement flag for the first day of the month, O, converted from oktas
+MFLAG1, measurement flag for the first day of the month, P, identified as "missing presumed zero" in DSI 3200 and 3206
+MFLAG1, measurement flag for the first day of the month, T, trace of precipitation, snowfall, or snow depth
+MFLAG1, measurement flag for the first day of the month, W , converted from 16-point WBAN code (for wind direction)
+QFLAG1, quality flag for the first day of the month, null, did not fail any quality assurance check
+QFLAG1, quality flag for the first day of the month, D, failed duplicate check
+QFLAG1, quality flag for the first day of the month, G, failed gap check
+QFLAG1, quality flag for the first day of the month, I, failed internal consistency check
+QFLAG1, quality flag for the first day of the month, K, failed streak/frequent-value check
+QFLAG1, quality flag for the first day of the month, L, failed check on length of multiday period
+QFLAG1, quality flag for the first day of the month, M, failed megaconsistency check
+QFLAG1, quality flag for the first day of the month, N, failed naught check
+QFLAG1, quality flag for the first day of the month, O, failed climatological outlier check
+QFLAG1, quality flag for the first day of the month, R, failed lagged range check
+QFLAG1, quality flag for the first day of the month, S, failed spatial consistency check
+QFLAG1, quality flag for the first day of the month, T, failed temporal consistency check
+QFLAG1, quality flag for the first day of the month, W, temperature too warm for snow
+QFLAG1, quality flag for the first day of the month, X, failed bounds check
+QFLAG1, quality flag for the first day of the month, Z, flagged as a result of an official Datzilla investigation
+SFLAG1, source flag for the first day of the month, null, No source (i.e., data value missing)
+SFLAG1, source flag for the first day of the month, 0, U.S. Cooperative Summary of the Day (NCDC DSI-3200)
+SFLAG1, source flag for the first day of the month, 6, CDMP Cooperative Summary of the Day (NCDC DSI-3206)
+SFLAG1, source flag for the first day of the month, 7, U.S. Cooperative Summary of the Day -- Transmitted via WxCoder3 (NCDC DSI-3207)
+SFLAG1, source flag for the first day of the month, A, U.S. Automated Surface Observing System (ASOS) real-time data (since January 1, 2006)
+SFLAG1, source flag for the first day of the month, a, Australian data from the Australian Bureau of Meteorology
+SFLAG1, source flag for the first day of the month, B, U.S. ASOS data for October 2000-December 2005 (NCDC DSI-3211)
+SFLAG1, source flag for the first day of the month, b, Belarus update
+SFLAG1, source flag for the first day of the month, C, Environment Canada
+SFLAG1, source flag for the first day of the month, D, Short time delay US National Weather Service CF6 daily summaries provided by the High Plains Regional Climate Center
+SFLAG1, source flag for the first day of the month, E, European Climate Assessment and Dataset (Klein Tank et al., 2002)
+SFLAG1, source flag for the first day of the month, F, U.S. Fort data
+SFLAG1, source flag for the first day of the month, G, Official Global Climate Observing System (GCOS) or other government-supplied data
+SFLAG1, source flag for the first day of the month, H, High Plains Regional Climate Center real-time data
+SFLAG1, source flag for the first day of the month, I, International collection (non U.S. data received through personal contacts)
+SFLAG1, source flag for the first day of the month, K, U.S. Cooperative Summary of the Day data digitized from paper observer forms (from 2011 to present)
+SFLAG1, source flag for the first day of the month, M, Monthly METAR Extract (additional ASOS data)
+SFLAG1, source flag for the first day of the month, m, Data from the Mexican National Water Commission (Comision National del Agua -- CONAGUA)
+SFLAG1, source flag for the first day of the month, N, Community Collaborative Rain, Hail,and Snow (CoCoRaHS)
+SFLAG1, source flag for the first day of the month, Q, Data from several African countries that had been "quarantined", that is, withheld from public release until permission was granted from the respective meteorological services
+SFLAG1, source flag for the first day of the month, R, NCEI Reference Network Database (Climate Reference Network and Regional Climate Reference Network)
+SFLAG1, source flag for the first day of the month, r, All-Russian Research Institute of Hydrometeorological Information-World Data Center
+SFLAG1, source flag for the first day of the month, S, Global Summary of the Day (NCDC DSI-9618)
+SFLAG1, source flag for the first day of the month, s, China Meteorological Administration/National Meteorological Information Center/Climatic Data Center (http://cdc.cma.gov.cn)
+SFLAG1, source flag for the first day of the month, T, SNOwpack TELemtry (SNOTEL) data obtained from the U.S. Department of Agriculture's Natural Resources Conservation Service
+SFLAG1, source flag for the first day of the month, U, Remote Automatic Weather Station (RAWS) data obtained from the Western Regional Climate Center
+SFLAG1, source flag for the first day of the month, u, Ukraine update
+SFLAG1, source flag for the first day of the month, W, WBAN/ASOS Summary of the Day from NCDC's Integrated Surface Data (ISD)
+SFLAG1, source flag for the first day of the month, X, U.S. First-Order Summary of the Day (NCDC DSI-3210)
+SFLAG1, source flag for the first day of the month, Z, Datzilla official additions or replacements
+SFLAG1, source flag for the first day of the month, z, Uzbekistan update
